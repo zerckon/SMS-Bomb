@@ -1,6 +1,6 @@
 # SMS-Bomb
 1. Download Termux from here: https://play.google.com/store/apps/details?id=com.termux (only available on Android devices) <br>
-<b>2. Type the following commands one by one to prepare your device:</b> <br>
+2. Type the following commands one by one to prepare your device:</b> <br>
 apt update && apt upgrade <br>
 pkg update && pkg upgrade <br>
 pkg install curl <br>
