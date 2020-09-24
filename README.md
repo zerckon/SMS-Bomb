@@ -1,2 +1,2 @@
 # SMS-Bomb
-FREE! SMS spamming script for Termux
+FREE! SMS spamming script for Termux. NOTE: ITS NOT AN EXICUTABLE COMMAND ITSELF YOU NEED TO DOWNLOAD TERMUX FROM GOOGLE PLAY
