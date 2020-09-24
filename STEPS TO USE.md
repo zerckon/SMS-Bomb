@@ -6,6 +6,6 @@ pkg update && pkg upgrade <br>
 pkg install curl <br>
 while true <br>
 do <br>
-'PASTE THE SMSBOMB SCRIPT AND AFTER THAT WRITE' --output Zerckon-SMSBOMB.txt <br>
+'PASTE THE SMSBOMB SCRIPT AND AFTER THAT WRITE' --output ZSCRIPT.txt <br>
 done <br>
 <em> Note: To stop the spamming press CTRL+C </em>
