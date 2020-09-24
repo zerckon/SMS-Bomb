@@ -1,0 +1,2 @@
+# SMS-Bomb
+Free SMS spamming app. COMPATIBLE WITH TERMUX ONLY!
